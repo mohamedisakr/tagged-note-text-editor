@@ -1,0 +1,28 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "content": "HTML is easy",
+            "tags": [
+                "HTML",
+                "web"
+            ]
+        },
+        {
+            "id": 2,
+            "content": "Browser can execute only JavaScript",
+            "tags": [
+                "JavaScript",
+                "web"
+            ]
+        },
+        {
+            "id": 3,
+            "content": "GET and POST are the most important methods of HTTP protocol",
+            "tags": [
+                "HTTP",
+                "web"
+            ]
+        }
+    ]
+}
